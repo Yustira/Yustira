@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Iyas Yustira
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning computer vision and time series forecasting
-- 💞️ I'm looking to collaborate on AI field or Data Science
+- 🌱 I’m currently learning tensorflow 
+- 💞️ I'm looking to collaborate on Data Science
 - 📫 How to reach me: iyas.yustira@gmail.com
 
 <!---
