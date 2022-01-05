@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iyas Yustira
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning tensorflow 
+- 🌱 I’m currently learning tensorflow and sql
 - 💞️ I'm looking to collaborate on Data Science
 - 📫 How to reach me: iyas.yustira@gmail.com
 
