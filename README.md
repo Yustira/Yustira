@@ -1,4 +1,4 @@
-### Hi there, welcome to my github page. Feel free to read my documentations.
+# Hi there, welcome to my github page
 
 <!--
 **Yustira/Yustira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
